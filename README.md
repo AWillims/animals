@@ -41,11 +41,9 @@ To test with an input file (for example, `animals-input`):
 - Inputing the "animals-input" file lists all the inputs in the files and lists them as what they are in the output, and ending at "Goodbye."
 
 ## Challenges and Solutions
-[Optional: Describe any challenges you encountered while creating this script and how you solved them. This could include debugging issues, understanding case statements, or Git workflow problems.]
-Once again, I used IFS in order to figure out how to make all the lines in the text file output.
+- Once again, I used IFS in order to figure out how to make all the lines in the text file output.
 
 ## Resources
-[List any resources you used (class slides, ChatGPT, etc.). Please refer to the course syllabus for more details on citations.]
-https://www.baeldung.com/linux/ifs-shell-variable - IFS usage
+- https://www.baeldung.com/linux/ifs-shell-variable - IFS usage
 ## License
 This project is part of coursework for Chapman University and is intended for educational purposes.
