@@ -3,7 +3,7 @@
 ## Author Information
 - **Name:** Avery Williams
 - **Course:** CENG298
-- **Assignment:** HW8 - animals.sh
+- **Assignment:** HW9 - animals.sh
 - **Date:** October 20, 2025
 
 ## Program Description
