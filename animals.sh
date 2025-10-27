@@ -3,6 +3,7 @@
 # Avery Williams
 # CENG298
 
+echo "Type an animal name in all caps or 'Goodbye' to exit"
 while IFS= read -r animal_name; do
     case "$animal_name" in
         DOG)
